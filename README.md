@@ -1,4 +1,4 @@
-<h2>Hello, my name is Tristan and I enjoying coding</h2>
+<h2>Hello, my name is Tristan and I enjoy coding</h2>
 
 Feel free to browse any of my ongoing public projects. 
 
