@@ -11,6 +11,7 @@ Feel free to browse any of my ongoing public projects.
   <li>CSS / SCSS</li>
   <li>JavaScript</li>
   <li>React</li>
+  <li>Node.js</li>
 </ul>
 
 
