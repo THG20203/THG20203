@@ -1,10 +1,12 @@
+<head>
 <style>
       body {
         background-color: red;
   color: white;
       }
 </style>
-
+</head>
+      
 <h2>Hello, my name is Tristan and I enjoy coding.</h2>
 
 I am currently focusing on creating aethetically pleasing UI using React. 
