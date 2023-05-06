@@ -6,11 +6,11 @@ Feel free to browse any of my ongoing public projects.
 
 <hr />
 <h3>Technologies:</h3>
-<p align="left">
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/sass.svg" alt="SCSS" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React.js" height="30"/>
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" height="70"/>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height="70"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="70"/>
+  <img src="https://cdn.svgporn.com/logos/sass.svg" alt="SCSS" height="70"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React.js" height="70"/>
 </p>
 
