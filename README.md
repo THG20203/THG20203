@@ -1,4 +1,4 @@
-<body style="background-color:#0a19a1;color: #FFF;font-family:Nunito;">
+
 <h2 align="left">My name is Tristan and I enjoy coding.</h2>
 I am currently focusing on creating aethetically pleasing UI using React.
 <br /><br />
@@ -11,6 +11,4 @@ Feel free to browse any of my ongoing public projects.
   <img src="https://cdn.svgporn.com/logos/sass.svg" alt="SCSS" width="70" hspace="10"/>
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="React.js" width="70" hspace="10"/>
   <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js" width="70" hspace="10"/>
-  <img src="https://cdn.svgporn.com/logos/express.svg" alt="Express.js" width="70" hspace="10"/>
 </p>
-</body>
