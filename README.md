@@ -1,4 +1,4 @@
-<h1 align="center">My name is Tristan and I enjoy coding.</h1>
+<h1 align="left">My name is Tristan and I enjoy coding.</h1>
 I am currently focusing on creating aethetically pleasing UI using React.
 <br />
 Feel free to browse any of my ongoing public projects. 
