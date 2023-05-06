@@ -12,3 +12,9 @@ Feel free to browse any of my ongoing public projects.
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="React.js" width="70" hspace="10"  vspace="20"/>
   <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js" width="70" hspace="10"  vspace="20"/>
  </p>
+<a href="https://github.com/THG20203">
+  <img alt="GitHub longest commit streak" src="https://img.shields.io/github/commit-streak-length/yourusername/yourrepositoryname?style=flat-square">
+</a>
+<a href="https://github.com/THG20203">
+  <img alt="GitHub contributions" src="https://img.shields.io/github/contributions/yourusername/yourrepositoryname?style=flat-square">
+</a>
