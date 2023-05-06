@@ -6,7 +6,7 @@ Feel free to browse any of my ongoing public projects.
 
 <hr />
 <h3>Technologies:</h3>
-<p align="center">
+<p align="left" style="background-color: black;>
   <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" height="70"/>
   <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height="70"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="70"/>
