@@ -1,6 +1,6 @@
 <h1 align="left">My name is Tristan and I enjoy coding.</h1>
 I am currently focusing on creating aethetically pleasing UI using React.
-<br />
+<br /><br />
 Feel free to browse any of my ongoing public projects. 
 <h2 align="center">Technologies:</h2>
 <p align="center">
