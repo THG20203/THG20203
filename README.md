@@ -2,7 +2,6 @@
 I am currently focusing on creating aethetically pleasing UI using React.
 <br />
 Feel free to browse any of my ongoing public projects. 
-<hr />
 <h2 align="center">Technologies:</h2>
 <p align="center">
   <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="70" hspace="10"/>
