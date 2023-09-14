@@ -10,6 +10,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="60" width="60" />
 </p>
  <h2>My Projects</h2>
-<a href="https://fcthg08.netlify.app/myclub" target="_blank">https://fcthg08.netlify.app/myclub</a>
+ <ul>
+   <li>
+<a href="https://fcthg08.netlify.app" target="_blank">https://fcthg08.netlify.app</a> - A React web application built with React-router-dom, SCSS architecture and hosted on Netlify. Inspired by websites of various football clubs, I have utilised digital art I have drawn and then edited on GIMP software.  
+     </li>
+ </ul>
  
 
