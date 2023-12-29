@@ -13,7 +13,7 @@
  <ul>
    
 <a href="https://fcthg08.netlify.app" target="_blank">https://fcthg08.netlify.app</a> <br />
-    <li /> A React web application built with react-router-dom, SCSS and hosted on Netlify. Inspired by websites of various football clubs, I have utilised digital art I drew and then edited on GIMP software.  
+    <li /> A React web application built with react-router-dom, SCSS and hosted on Netlify. Inspired by websites of various football clubs, I have used digital art I drew and then edited on GIMP software.  
      </li>
  </ul>
  
