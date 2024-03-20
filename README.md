@@ -11,6 +11,12 @@
 </p>
  <h2>My Projects</h2>
  <ul>
+   <li>https://ilderton-road.tristan-g.uk/</li>
+   <p>Ilderton Road is a personal portfolio project build using HTML, CSS and JavaScript. It includes:
+     <ul><li>A parallax scene</li>
+       <li>A click through sequence of photos</li>
+     <li>A tube photo with keyframe animations</li>
+     <li>A section of London Underground map built with CSS</li><li>A custom JavaScript video player</li><li>Custom JavaScript Expnading Cards</li></p>
  </ul>
  
 
