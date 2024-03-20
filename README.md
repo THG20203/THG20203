@@ -16,7 +16,7 @@
      <ul><li>A parallax scene</li>
        <li>A click through sequence of photos</li>
      <li>A tube photo with keyframe animations</li>
-     <li>A section of London Underground map built with CSS</li><li>A custom JavaScript video player</li><li>Custom JavaScript Expnading Cards</li></p>
+     <li>A section of London Underground map built with CSS</li><li>A custom JavaScript video player</li><li>Custom JavaScript Expanding Cards</li></p>
  </ul>
  
 
