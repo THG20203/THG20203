@@ -13,5 +13,5 @@
 </p>
  <h2>My Projects</h2>
  <ul>
-   <li>https://ilderton-road.tristan-g.uk/</li>
+   <li><a href="https://ilderton-road.tristan-g.uk" target="_blank"></a>https://ilderton-road.tristan-g.uk/</li>
    <p>Ilderton Road is a portfolio project built using HTML, CSS and JavaScript and hosted on Netlify.</p>
