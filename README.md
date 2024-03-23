@@ -1,3 +1,5 @@
+<h2>About me</h2>
+<p>Hi there! I am a Upper Second Class Honours graduate of the University of Warwick and a self taught programmer. I have a keen interest in Frontend Web Development technologies, as displayed in my projects listed below.</p>
 <h2>My Technologies</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="60" width="60"/>
@@ -12,4 +14,4 @@
  <h2>My Projects</h2>
  <ul>
    <li>https://ilderton-road.tristan-g.uk/</li>
-   <p>Ilderton Road is a portfolio project built using HTML, CSS and JavaScript.</p>
+   <p>Ilderton Road is a portfolio project built using HTML, CSS and JavaScript and hosted on Netlify.</p>
