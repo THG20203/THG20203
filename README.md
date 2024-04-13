@@ -14,5 +14,9 @@
 </p>
  <h2>My Projects</h2>
  <ul>
+    <li><a href="https://ttg-racing.tristan-g.uk/" target="_blank"></a>https://ttg-racing.tristan-g.uk/</li>
+  <p>TTG Racing is a portfolio project built using HTML, CSS and JavaScript and hosted on Netlify.</p>
    <li><a href="https://ilderton-road.tristan-g.uk" target="_blank"></a>https://ilderton-road.tristan-g.uk/</li>
-   <p>Ilderton Road is a portfolio project built using HTML, CSS and JavaScript and hosted on Netlify.</p>
+  <p>Ilderton Road is a portfolio project built using HTML, CSS and JavaScript and hosted on Netlify.</p>
+ </ul>
+ 
