@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="60" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="60" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="60" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/mongo-original.svg" alt="MongoDB.js" height="60" width="60" />
 </p>
  <h2>My Projects</h2>
  <ul>
