@@ -2,7 +2,7 @@
 <h4>Hi there, my name is Tristan.</h4>
 <p>I am a Junior Web Developer at iCandy Design.</p>
 <h2>My Technologies</h2>
-<p style="text-align: center">
+<div style="text-align: center">
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 80px; height: 80px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width: 80px; height: 80px; margin: 10px;">
@@ -20,11 +20,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" style="width: 80px; height: 80px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width: 80px; height: 80px; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" style="width: 80px; height: 80px; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" style="width: 80px; height: 80px; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" alt="Livewire" style="width: 80px; height: 80px; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" style="width: 80px; height: 80px; margin: 10px;">
 </div>
-</p>
+</div>
  <h2>My Projects</h2>
  <ul>
     <li><a href="https://ttg-racing.tristan-g.uk/" target="_blank"></a>https://ttg-racing.tristan-g.uk/</li>
