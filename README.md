@@ -1,6 +1,6 @@
 <h2>About me</h2>
 <h4>Hi there, my name is Tristan.</h4>
-<p>I am a Upper Second Class Honours graduate of the University of Warwick and a self taught programmer. I have a keen interest in Web Development technologies, as displayed in my projects listed below.</p>
+<p>I am a Junior Web Developer at iCandy Design</p>
 <h2>My Technologies</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" width="50"/>
