@@ -24,6 +24,6 @@ I am a Junior Web Developer at iCandy Design.
 
 ## My Projects
 - [TTG Racing](https://ttg-racing.tristan-g.uk/)
-  - TTG Racing is a portfolio project built using HTML, CSS, and JavaScript and hosted on Netlify.
+  - TTG Racing is a portfolio project built using HTML, CSS, and JavaScript - hosted on Netlify.
 - [Ilderton Road](https://ilderton-road.tristan-g.uk/)
-  - Ilderton Road is a portfolio project built using HTML, CSS, and JavaScript and hosted on Netlify.
+  - Ilderton Road is a portfolio project built using HTML, CSS, and JavaScript - hosted on Netlify.
