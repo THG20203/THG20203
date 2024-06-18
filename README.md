@@ -16,14 +16,5 @@ I am a Junior Web Developer at iCandy Design.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
-
-        
-    
-
 </div>
 
-## My Projects
-- [TTG Racing](https://ttg-racing.tristan-g.uk/)
-  - TTG Racing is a portfolio project built using HTML, CSS, and JavaScript - hosted on Netlify.
-- [Ilderton Road](https://ilderton-road.tristan-g.uk/)
-  - Ilderton Road is a portfolio project built using HTML, CSS, and JavaScript - hosted on Netlify.
