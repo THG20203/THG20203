@@ -20,5 +20,5 @@ I am a Junior Web Developer at iCandy Design.
 
 ## GitHub Statistics
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=dracula&hide_border=false&count_private=true&show_icons=true)
+https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=dracula&hide_border=false&count_private=true&show_icons=true
 </div>
