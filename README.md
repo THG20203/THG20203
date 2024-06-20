@@ -1,3 +1,6 @@
+<div style="background-color:#00008B; color:white; padding:20px;">
+
+
 ## About me
 ### Hi there, my name is Tristan.
 I am a Junior Web Developer at iCandy Design.
@@ -21,4 +24,6 @@ I am a Junior Web Developer at iCandy Design.
 ## GitHub Statistics
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=HighContrast&count_private=true&show_icons=true" alt="Tristan's GitHub Stats">
+</div>
+
 </div>
