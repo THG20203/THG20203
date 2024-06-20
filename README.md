@@ -18,3 +18,7 @@ I am a Junior Web Developer at iCandy Design.
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
 </div>
 
+## GitHub Statistics
+<div align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=dracula&hide_border=false&count_private=true&show_icons=true)
+</div>
