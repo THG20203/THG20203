@@ -1,7 +1,7 @@
 
 
 ## About me
-### Hi there, my name is Tristan and I am a Web Developer.
+<p>Hi there, my name is Tristan and I am a Web Developer.</p>
 
 ## My Technologies
 <div align="center">
