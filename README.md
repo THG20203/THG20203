@@ -23,6 +23,6 @@ I am a Junior Web Developer at iCandy Design.
 
 ## GitHub Statistics
 <div align="center">
-<img srcx="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=cobalt" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=cobalt&count_private=true&show_icons=true" alt="Tristan's GitHub Stats">
 </div>
 
