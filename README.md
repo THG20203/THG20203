@@ -28,3 +28,6 @@ I am a Junior Web Developer at iCandy Design.
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats">
 </div>
 
+<a href="https://github.com/THG20203">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
