@@ -25,8 +25,8 @@ I am a Junior Web Developer at iCandy Design.
 
 ## GitHub Statistics
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" style="height: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Most Used Languages" style="height: 300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" style="height: 270px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Most Used Languages" style="height: 270px;">
 </div>
 
 
