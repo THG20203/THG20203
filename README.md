@@ -16,11 +16,11 @@
 </div>
 
 ## GitHub Statistics
-<div align="center" height: 300px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" style="height: 230px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&hide=html,css&title_color=7aa2f7&text_color=FFFFFF&icon_color=7aa2f7&bg_color=1A2B34" alt="Most Used Languages" style="height: 230px">
-  <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight" style="height: 250px" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" style="height: 280px" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" style="width: 400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&hide=html,css&title_color=7aa2f7&text_color=FFFFFF&icon_color=7aa2f7&bg_color=1A2B34" alt="Most Used Languages" style="width: 400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight" style="width: 400" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" style="width: 400" />
 </div>
 
 
