@@ -17,7 +17,7 @@
 
 ## GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" height="300px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" align="start" height="270px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" height="300px" />
 </div>
 
