@@ -26,7 +26,8 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" height="300px" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
       </td>
     </tr>
   </table>
