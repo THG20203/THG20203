@@ -19,12 +19,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td valign="top">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" height="230px" />
       </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" height="300px" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="200px" />
         <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="200px" />
@@ -32,5 +32,6 @@
     </tr>
   </table>
 </div>
+
 
 
