@@ -26,6 +26,7 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" height="300px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="300px" />
       </td>
     </tr>
   </table>
