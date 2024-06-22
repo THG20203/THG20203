@@ -26,10 +26,10 @@
     <tr>
       <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight" height="300px" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="200px" />
-        <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="200px" />
       </td>
     </tr>
+      <tr><td>        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="200px" /></td></tr>
   </table>
 </div>
 
