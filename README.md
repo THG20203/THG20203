@@ -1,5 +1,6 @@
 ## About
 <p>Hi, my name is Tristan and I am a web developer. I enjoy using a variety of web technologies such as CSS, JavaScript, and Laravel.</p>
+
 ## My Technologies
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
