@@ -19,6 +19,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" alt="Tristan's GitHub Stats" align="start"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&layout=pie&theme=tokyonight"  />
+
+    ![THG20203's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 
