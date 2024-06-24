@@ -1,6 +1,14 @@
 ## About
 <p>Hi, my name is Tristan and I am a web developer. I enjoy using a variety of web technologies such as CSS, JavaScript, and Laravel.</p>
 
+## My Projects
+
+## GitHub Statistics
+<div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
 ## My Technologies
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
@@ -18,10 +26,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </div>
 
-## GitHub Statistics
-<div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div>
 
-## My Projects
+
+
