@@ -1,5 +1,6 @@
 ## About
-<p>Hi, my name is Tristan and I am a web developer. I enjoy using a variety of web technologies such as CSS, JavaScript, and Laravel.</p>
+<img src="https://user-images.githubusercontent.com/12690315/45935880-006a8200-bfeb-11e8-958e-ff742ae66b96.png" />
+<p>My name is Tristan and I am a web developer. I enjoy using a variety of web technologies such as CSS, JavaScript, and Laravel.</p>
 
 ## My Projects
 
