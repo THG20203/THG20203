@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="50" height="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
+<img src="https://poser.pugx.org/livewire/livewire/d/total.svg" alt="Total Downloads">
 
 </div>
 
