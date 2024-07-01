@@ -1,7 +1,5 @@
 ## About
 
-** Web Developer **
-
 <p>My name is Tristan and I am a web developer. I enjoy using a variety of web technologies such as Laravel, CSS and JavaScript.</p>
 <div align="center">
 <img src="https://camo.githubusercontent.com/7b187e2fc420331f88e9b5c3aaf9d474e8ddc5b5d3a24e0d304c7b8095444059/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416e746f6e792d54686f726e746f6e26267374796c653d666c61742d737175617265" height="25px" />
