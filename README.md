@@ -46,16 +46,6 @@
 
 <a href="https://github.com/THG20203?tab=repositories"><img src="https://img.shields.io/github/stars/THG20203?style=flat-square" height="25"></a>
 
-
-<a href="https://github.com/THG20203?tab=repositories"><img src="https://img.shields.io/github/languages/top/THG20203/YOUR_REPOSITORY?style=flat-square" height="25"></a>
-
-
-<a href="https://github.com/THG20203?tab=repositories"><img src="https://img.shields.io/github/languages/count/THG20203?style=flat-square" height="25"></a>
-
-
-<a href="https://github.com/THG20203"><img src="https://img.shields.io/badge/Years%20on%20GitHub-XX-blue?style=flat-square" height="25"></a>
-
-
  <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/">
   <img src="https://img.shields.io/github/followers/THG20203?style=social" height="25px" />
   </a>
