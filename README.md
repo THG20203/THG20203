@@ -45,6 +45,7 @@
  <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/">
   <img src="https://img.shields.io/github/followers/THG20203?style=social" height="25px" />
   </a>
+ <a href="mailto:tristanhgriffiths8@yahoo.com@stuartd.co.uk"><img src="https://img.shields.io/badge/Email-tristanhgriffiths8@yahoo.com-critical?style=flat-square"></a>
 </div>
 
 
