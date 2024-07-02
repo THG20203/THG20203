@@ -44,8 +44,6 @@
 
 <img src="https://camo.githubusercontent.com/7b187e2fc420331f88e9b5c3aaf9d474e8ddc5b5d3a24e0d304c7b8095444059/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416e746f6e792d54686f726e746f6e26267374796c653d666c61742d737175617265" height="25px" />
 
-<a href="https://github.com/THG20203?tab=repositories"><img src="https://img.shields.io/github/stars/THG20203?style=flat-square" height="25"></a>
-
  <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/">
   <img src="https://img.shields.io/github/followers/THG20203?style=social" height="25px" />
   </a>
