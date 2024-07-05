@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel" width="150" height="50">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+           <img src="https://camo.githubusercontent.com/0418a2bf 25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
