@@ -13,8 +13,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" height="190px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="190px" />
     <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="190px" />
- <br />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=THG20203&custom_title=Tristan%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFF&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFF&area=true" width="750px" />
+
+
 </div>
 
 ## My Technologies
