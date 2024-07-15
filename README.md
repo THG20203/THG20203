@@ -6,8 +6,6 @@
  </a>
 </h1>
 
-## My Projects
-
 ## GitHub Statistics
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" height="190px" />
