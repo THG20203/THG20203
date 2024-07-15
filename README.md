@@ -40,7 +40,7 @@
 ## Futher Details
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30px" /></a><a href="mailto:tristanhgriffiths8@yahoo.com"><img src="https://img.shields.io/badge/Email-tristanhgriffiths8@yahoo.com-critical?style=for-the-badge" height="30px"></a><img src="https://img.shields.io/github/followers/THG20203?style=for-the-badge" height="30px" />
+  <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30px" /></a> <a href="mailto:tristanhgriffiths8@yahoo.com"><img src="https://img.shields.io/badge/Email-tristanhgriffiths8@yahoo.com-critical?style=for-the-badge" height="30px"></a> <img src="https://img.shields.io/github/followers/THG20203?style=for-the-badge" height="30px" />
 
 </div>
 
