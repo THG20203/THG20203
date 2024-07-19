@@ -44,11 +44,11 @@
 
 <div align="center">
  <a href="https://github.com/THG20203/Racing-Project">
-<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Racing-Project&theme=tokyonight&hide_border=true&show_icons=false" />
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Racing-Project&theme=tokyonight&hide_border=true&show_icons=false" />
  </a>
  
   <a href="https://github.com/THG20203/Ilderton-Road">
-<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Ilderton-Road&theme=tokyonight&hide_border=true&show_icons=false" />
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Ilderton-Road&theme=tokyonight&hide_border=true&show_icons=false" />
  </a>
 </div>
 
