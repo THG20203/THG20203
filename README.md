@@ -1,4 +1,4 @@
-## About 👋
+## About 
 
 <h1 align="center">
  <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" /></a> <a href="mailto:tristanhgriffiths8@yahoo.com"><img src="https://img.shields.io/badge/Email-tristanhgriffiths8@yahoo.com-critical?style=for-the-badge" height="25px"></a> <a href="https://github.com/THG20203"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/THG20203?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="25px" /></a>
 </div>
 
-## GitHub Statistics 📊
+## GitHub Statistics 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=tokyonight&count_private=true&show_icons=true" height="170px" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="170px" />
@@ -43,7 +43,7 @@
 </div>
 
 
-## My Projects 👨‍💻
+## My Projects 
 
 <!-- <div align="center">
  <a href="https://github.com/THG20203/Racing-Project">
