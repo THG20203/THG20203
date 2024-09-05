@@ -17,7 +17,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170px" />
 </div>
 
-### Technologies
+## Technologies
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </div>
 
-### Tools
+## Tools
 <div align="center">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40">
