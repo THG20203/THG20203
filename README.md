@@ -17,26 +17,34 @@
  <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170px" />
 </div>
 
-## My Technologies 💻
+### Frontend Technologies:
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel" width="80" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+</div>
+
+### Backend Technologies:
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel" width="80" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+</div>
+
+### Tools:
+<div align="center">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40">
-    <img src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/JetBrains_PhpStorm_Product_Logo.svg" alt="PHP Storm" width="80" height="40">
- <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" alt="Visual Studio Code Logo" width="40" height="40">
+    <img src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" alt="GitHub" width="40" height="40">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/JetBrains_PhpStorm_Product_Logo.svg" alt="PHP Storm" width="80" height="40">
+    <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" alt="Visual Studio Code Logo" width="40" height="40">
 </div>
 
 
