@@ -14,7 +14,6 @@
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THG20203&theme=transparent&count_private=true&show_icons=true" height="170px" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=transparent&show_icons=true&hide_border=true&layout=compact" height="170px" />
- <img src="https://github-readme-stats.vercel.app/api?username=THG20203&theme=transparent&show_icons=true&hide_border=true&count_private=true" height="170px" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THG20203&theme=transparent" height="170px" />
 </div>
 
