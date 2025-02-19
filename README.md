@@ -27,15 +27,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </div>
 
-## Tools
-<div align="center">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40">
-    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/JetBrains_PhpStorm_Product_Logo.svg" alt="PHP Storm" width="80" height="40">
-    <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" alt="Visual Studio Code Logo" width="40" height="40">
-</div>
-
-
 ## My Projects 
 
 <!-- <div align="center">
