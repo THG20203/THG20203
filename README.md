@@ -29,6 +29,7 @@
 
 ## My Projects 
 
+## Contact Details
 <!-- <div align="center">
  <a href="https://github.com/THG20203/Racing-Project">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Racing-Project&theme=tokyonight&hide_border=true&show_icons=false" />
