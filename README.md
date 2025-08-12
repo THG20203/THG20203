@@ -1,14 +1,4 @@
-## About 
-
-<h1 align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=30&center=true&vCenter=true&width=500&height=40&duration=5000&lines=+Hello+there!+My+name+is+Tristan;+I+am+a+fullstack+web+developer+:);&color=%237aa2f7;" />
- </a>
-</h1>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THG20203&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="170px" />
-</div>
+<!-- ## My Projects -->
 
 ## Technologies
 <div align="center">
@@ -22,9 +12,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40">
 </div>
-
-
-<!-- ## My Projects -->
 
 ## Contact Details
 <!-- <div align="center">
