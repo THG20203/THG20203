@@ -15,23 +15,8 @@
 </div>
 
 ## Contact Details
-<!-- <div align="center">
- <a href="https://github.com/THG20203/Racing-Project">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Racing-Project&theme=tokyonight&hide_border=true&show_icons=false" />
- </a>
- 
-  <a href="https://github.com/THG20203/Ilderton-Road">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=THG20203&repo=Ilderton-Road&theme=tokyonight&hide_border=true&show_icons=false" />
- </a>
-</div> -->
-
  <div align="center">
  <a href="https://www.linkedin.com/in/tristan-griffiths-4a0352294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" /></a> <a href="mailto:tristanhgriffiths8@yahoo.com"><img src="https://img.shields.io/badge/Email-tristanhgriffiths8@yahoo.com-critical?style=for-the-badge" height="25px"></a> <a href="https://github.com/THG20203"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/THG20203?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="25px" /></a>
  </div>
  
 </div>
-
-
-
-
-
